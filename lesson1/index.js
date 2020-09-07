@@ -3,5 +3,5 @@ typeof ''; //string
 typeof {}; //object
 typeof true; //boolean
 typeof undefined; //undefined
-typeof null; //?
+typeof null; //object
 typeof Symbol("foo"); //symbol
