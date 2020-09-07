@@ -12,10 +12,17 @@ typeof null; //object
 typeof Symbol("foo"); //symbol
 
 //functions
-//make a number
-function stringToArray(str) {
-    return str.split(' ')
+function codePhrase(...args) {
+    output.codePhraseLog(args);
 }
 
+codePhrase('', {}, false, 0, null, undefined, '');
+// codePhrase();
+
+//make a number
+// function stringToArray(str) {
+//     return str
+// }
+
 //tests
-output.strToArrLog(stringToArray(inputString))
+// output.strToArrLog(stringToArray(inputString))
