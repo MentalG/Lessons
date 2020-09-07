@@ -11,12 +11,11 @@ typeof undefined; //undefined
 typeof null; //object
 typeof Symbol("foo"); //symbol
 
-
 //functions
-//String to array
-function stringToArray(string) {
-    return string
+//make a number
+function stringToArray(str) {
+    return str.split(' ')
 }
 
 //tests
-output(stringToArray(inputString))
+output.strToArrLog(stringToArray(inputString))
