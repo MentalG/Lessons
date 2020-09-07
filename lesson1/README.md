@@ -1,3 +1,3 @@
 # Типы Данных
 ## Все используемые данные в javascript имеют определенный тип
-![](http://gph.is/13DmgOt)
+![](https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif)
