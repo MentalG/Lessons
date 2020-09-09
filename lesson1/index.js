@@ -26,3 +26,16 @@ function codePhrase(...args) {
 //tests
 // output.strToArrLog(stringToArray(inputString))
 codePhrase('', {}, false, 0, null, undefined, ''); //this is my website
+
+
+var friends = {
+  "_id": "5f58a8fcdd6991201c3e6335",
+  "index": 2,
+  "guid": null,
+  "isActive": false,
+  "balance": "$1,999.99",
+  "picture": "http://placehold.it/32x32",
+  "age": 35,
+  "eyeColor": undefined,
+  "name": {},
+}
